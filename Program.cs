@@ -13,6 +13,15 @@ namespace RelojArena
             {
                 // Lee todas las líneas del archivo
                 string[] lineas = File.ReadAllLines(path);
+                int longitudEsperada = lineas[0].Length;
+                foreach (string linea in lineas)
+                {
+                    if (linea.Length != longitudEsperada)
+                    {
+                        Console.WriteLine("La matriz es inválida: todas las líneas deben tener la misma longitud.");
+                        return;
+                    }
+                }
                 int filas = lineas.Length;
                 int columnas = lineas[0].Length;
                 int[,] matriz = new int[filas, columnas];
@@ -27,7 +36,7 @@ namespace RelojArena
                 matriz1.mostrarMatriz();
                 matriz1.mostrarRelojesArena();
                 WriteLine("El reloj con mayor arena es:");
-                matriz1.mostrarMayorRelojArena();
+                matriz1.mostrarMenorRelojArena();
                 WriteLine("Presiona cualquier tecla para salir...");
                 ReadKey();
             }

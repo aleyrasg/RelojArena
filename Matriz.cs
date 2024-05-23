@@ -81,13 +81,13 @@ namespace RelojArena
             return sumas.ToArray();
         }
 
-        public int mayorSumaRelojArena()
+        public int menorSumaRelojArena()
         {
             int[] sumas = sumaRelojArena();
-            return sumas.Max();
+            return sumas.Min();
         }
 
-        public void mostrarMayorRelojArena()
+        public void mostrarMenorRelojArena()
         {
             int contador = 0;
             for (int i = 1; i < filas - 1; i++)
@@ -104,7 +104,7 @@ namespace RelojArena
                     suma += matriz[i + 1, j];
                     suma += matriz[i + 1, j + 1];
 
-                    if (suma == mayorSumaRelojArena())
+                    if (suma == menorSumaRelojArena())
                     {
                         WriteLine($"Reloj de Arena numero: {contador}");
                         WriteLine($"posicion origen: {matriz[i, j]}");

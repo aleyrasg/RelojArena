@@ -1,0 +1,14 @@
+D:\MisArchivos\Ingenieria\2°\POO\RelojArena\bin\Debug\net8.0\RelojArena.exe
+D:\MisArchivos\Ingenieria\2°\POO\RelojArena\bin\Debug\net8.0\RelojArena.deps.json
+D:\MisArchivos\Ingenieria\2°\POO\RelojArena\bin\Debug\net8.0\RelojArena.runtimeconfig.json
+D:\MisArchivos\Ingenieria\2°\POO\RelojArena\bin\Debug\net8.0\RelojArena.dll
+D:\MisArchivos\Ingenieria\2°\POO\RelojArena\bin\Debug\net8.0\RelojArena.pdb
+D:\MisArchivos\Ingenieria\2°\POO\RelojArena\obj\Debug\net8.0\RelojArena.GeneratedMSBuildEditorConfig.editorconfig
+D:\MisArchivos\Ingenieria\2°\POO\RelojArena\obj\Debug\net8.0\RelojArena.AssemblyInfoInputs.cache
+D:\MisArchivos\Ingenieria\2°\POO\RelojArena\obj\Debug\net8.0\RelojArena.AssemblyInfo.cs
+D:\MisArchivos\Ingenieria\2°\POO\RelojArena\obj\Debug\net8.0\RelojArena.csproj.CoreCompileInputs.cache
+D:\MisArchivos\Ingenieria\2°\POO\RelojArena\obj\Debug\net8.0\RelojArena.dll
+D:\MisArchivos\Ingenieria\2°\POO\RelojArena\obj\Debug\net8.0\refint\RelojArena.dll
+D:\MisArchivos\Ingenieria\2°\POO\RelojArena\obj\Debug\net8.0\RelojArena.pdb
+D:\MisArchivos\Ingenieria\2°\POO\RelojArena\obj\Debug\net8.0\RelojArena.genruntimeconfig.cache
+D:\MisArchivos\Ingenieria\2°\POO\RelojArena\obj\Debug\net8.0\ref\RelojArena.dll

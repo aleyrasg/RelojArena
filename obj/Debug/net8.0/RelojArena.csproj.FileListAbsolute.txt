@@ -12,3 +12,4 @@ D:\MisArchivos\Ingenieria\2°\POO\RelojArena\obj\Debug\net8.0\refint\RelojArena.
 D:\MisArchivos\Ingenieria\2°\POO\RelojArena\obj\Debug\net8.0\RelojArena.pdb
 D:\MisArchivos\Ingenieria\2°\POO\RelojArena\obj\Debug\net8.0\RelojArena.genruntimeconfig.cache
 D:\MisArchivos\Ingenieria\2°\POO\RelojArena\obj\Debug\net8.0\ref\RelojArena.dll
+D:\MisArchivos\Ingenieria\2°\POO\RelojArena\obj\Debug\net8.0\RelojArena.sourcelink.json
